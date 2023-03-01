@@ -25,6 +25,7 @@
 * [System Modeling](https://samwhelp.github.io/system-modeling/) ([GitHub](https://github.com/samwhelp/system-modeling/))
 * [Compiz 探索筆記](https://samwhelp.github.io/note-about-compiz/) ([GitHub](https://github.com/samwhelp/note-about-compiz/))
 * [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) ([GitHub](https://github.com/samwhelp/note-about-ezarcher/))
+* [Labwc 探索筆記](https://samwhelp.github.io/note-about-labwc/) ([GitHub](https://github.com/samwhelp/note-about-labwc/))
 
 
 ## samwhelp
