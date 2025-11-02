@@ -20,6 +20,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [ISO Builder](#iso-builder)
 * [相關筆記](#相關筆記)
 
 
@@ -30,6 +31,16 @@
 | 微調腳本 |
 | -------- |
 | [Wayfire Config](https://github.com/samwhelp/wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
+
+
+
+
+## ISO Builder
+
+| Remix | Respin |
+| ----- | ------ |
+| [debian-iso-builder-remix-wayfire](https://github.com/samwhelp/debian-iso-builder-remix-wayfire) | [debian-iso-builder-respin-wayfire](https://github.com/samwhelp/debian-iso-builder-respin-wayfire) |
+| [ubuntu-iso-builder-remix-wayfire](https://github.com/samwhelp/ubuntu-iso-builder-remix-wayfire) | [ubuntu-iso-builder-respin-wayfire](https://github.com/samwhelp/ubuntu-iso-builder-respin-wayfire) |
 
 
 
