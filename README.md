@@ -40,6 +40,8 @@
 | ---- | ------ |
 | [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Compiz 探索筆記](https://samwhelp.github.io/note-about-compiz/) | [GitHub](https://github.com/samwhelp/note-about-compiz) |
+| [Debian Wayfire 探索筆記](https://samwhelp.github.io/note-about-debian-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-debian-wayfire) |
+| [Ubuntu Wayfire 探索筆記](https://samwhelp.github.io/note-about-ubuntu-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-wayfire) |
 | [Fedora Wayfire 探索筆記](https://samwhelp.github.io/note-about-fedora-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-fedora-wayfire) |
 | [Ultramarine Wayfire 探索筆記](https://samwhelp.github.io/note-about-ultramarine-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-wayfire) |
 
