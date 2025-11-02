@@ -21,6 +21,16 @@ has_children: true
 
 
 
+### Wayfire Default Config
+
+| Config File Path |
+| ---------------- |
+| [~/.config/wayfire.ini](https://github.com/WayfireWM/wayfire/blob/master/wayfire.ini) |
+| [~/.config/wf-shell.ini](https://github.com/WayfireWM/wf-shell/blob/master/wf-shell.ini.example) |
+
+
+
+
 ## Debian Wiki
 
 | Debian Wiki |
