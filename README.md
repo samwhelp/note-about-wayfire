@@ -9,14 +9,6 @@
 
 
 
-## Wayfire
-
-* [Wayfire](https://wayfire.org/)
-* GitHub / [wayfire](https://github.com/WayfireWM/wayfire)
-
-
-
-
 ## 主題
 
 * [微調腳本](#微調腳本)
