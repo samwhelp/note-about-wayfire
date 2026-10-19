@@ -1,4 +1,5 @@
 
+
 # 首頁
 
 | Link | GitHub |
@@ -38,6 +39,13 @@
 
 
 ## 相關筆記
+
+| Link | GitHub |
+| ---- | ------ |
+| [Wayland 探索筆記](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
+| [Labwc 探索筆記](https://samwhelp.github.io/note-about-labwc/) | [GitHub](https://github.com/samwhelp/note-about-labwc) |
+| [Cosmic 探索筆記](https://samwhelp.github.io/note-about-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-cosmic) |
+
 
 | Link | GitHub |
 | ---- | ------ |
