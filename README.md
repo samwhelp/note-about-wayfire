@@ -23,7 +23,7 @@
 
 | 微調腳本 |
 | -------- |
-| [Wayfire Config](https://github.com/samwhelp/wayfire-adjustment/tree/main/prototype/main/wayfire-config/Main) |
+| [Wayfire Config](https://github.com/samwhelp/wayfire-adjustment/tree/main/prototype/main/wayfire-config/part/Main) |
 
 
 
