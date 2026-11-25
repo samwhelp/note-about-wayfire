@@ -55,6 +55,7 @@
 | [Ubuntu Wayfire 探索筆記](https://samwhelp.github.io/note-about-ubuntu-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-wayfire) |
 | [Fedora Wayfire 探索筆記](https://samwhelp.github.io/note-about-fedora-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-fedora-wayfire) |
 | [Ultramarine Wayfire 探索筆記](https://samwhelp.github.io/note-about-ultramarine-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-ultramarine-wayfire) |
+| [Archlinux Wayfire 探索筆記](https://samwhelp.github.io/note-about-archlinux-wayfire/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-wayfire) |
 
 
 
